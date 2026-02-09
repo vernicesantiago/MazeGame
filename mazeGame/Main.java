@@ -113,8 +113,9 @@ public class Main {
 				} else {
 					System.out.println("\nYou've hit the boundary! Try again!");
 				}
-				
-				
+			} else if (playerMove.equals("Q")) {
+				System.out.println("\nYou quit the game!");
+				break;
 			} else {
 				System.out.println("\nThat's an invalid input bruh! Try again!");
 			}
