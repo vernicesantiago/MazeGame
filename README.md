@@ -10,6 +10,7 @@ A strategic, console-based maze navigation game built with Java. The player must
    - `S`: Down
    - `A`: Left
    - `D`: Right
+   - `Q`: Quit
 4. **Objective**: Reach the **Exit** coordinate.
 5. **Challenge**: Avoid **Walls** and manage your **Energy**. Every successful move costs 1 energy point.
 
